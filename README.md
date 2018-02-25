@@ -1,2 +1,2 @@
 # Reading-books
-Empty..
+This is my first project for further promotion and study.
